@@ -69,6 +69,6 @@ pip install -U openmim
 mim install "mmengine>=0.7.0"
 mim install "mmcv>=2.0.0"
 mim install "mmpose"
-```
+
 
 </div>
