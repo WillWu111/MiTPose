@@ -70,10 +70,5 @@ mim install "mmengine>=0.7.0"
 mim install "mmcv>=2.0.0"
 mim install "mmpose"
 ```
-#### 2. Change Backbone
-
-Our backbone implementation is located at: MiTPose/codes/vision_transformer(mitpose).py
-
-
 
 </div>
